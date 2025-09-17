@@ -1,0 +1,11 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+*.sln
+*.user
+*.DotSettings.user
+*.VC.db
+*.VC.opendb
